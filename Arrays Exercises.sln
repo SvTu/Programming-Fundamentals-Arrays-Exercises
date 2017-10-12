@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PairsByDifference", "10.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.EqualSums", "11.EqualSums\11.EqualSums.csproj", "{DE1CA7EE-6DF5-4B6F-8AA0-65E7E23B32C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.1.EqualSums", "11.1.EqualSums\11.1.EqualSums.csproj", "{80A5EF8F-28A8-476C-B445-B7CE4E0BEFE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{DE1CA7EE-6DF5-4B6F-8AA0-65E7E23B32C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE1CA7EE-6DF5-4B6F-8AA0-65E7E23B32C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE1CA7EE-6DF5-4B6F-8AA0-65E7E23B32C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A5EF8F-28A8-476C-B445-B7CE4E0BEFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A5EF8F-28A8-476C-B445-B7CE4E0BEFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A5EF8F-28A8-476C-B445-B7CE4E0BEFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A5EF8F-28A8-476C-B445-B7CE4E0BEFE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
